@@ -2,3 +2,6 @@
 *.gif
 *.png
 *.svg
+
+# Configurations
+config.js
