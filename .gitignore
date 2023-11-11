@@ -4,6 +4,8 @@
 *.svg
 *.mp4
 *.mp3
+*.jpg
+*.jpeg
 
 # Configurations
 config.js
