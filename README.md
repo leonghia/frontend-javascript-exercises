@@ -1,4 +1,4 @@
-# JavaScript Web Projects: 20 Projects to Build Your Portfolio
+# Front-end JavaScript Exercises: 20 Projects to Build Your Portfolio
 Modern HTML5, CSS3, and JavaScript to build Responsive and Mobile Friendly projects for your dream portfolio and resume.
 
 ## What you'll learn
